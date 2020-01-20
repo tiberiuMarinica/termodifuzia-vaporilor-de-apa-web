@@ -1,1 +1,1 @@
-"# termodifuzia_vaporilor_de_apa_web" 
+#### Simple vanilla HTML, Javascript (jQuery), CSS (with Bootstrap) application that calls an endpoint to get data based on input
